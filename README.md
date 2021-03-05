@@ -8,11 +8,20 @@
 
 <!-- PROJECT LOGO -->
 <br />
+
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
 <p align="center">
   
   <h3 align="center">Trabalho de LP - TTP</h3>
   <h2 align="center">Java</h2>
-  <img align="center" src="https://buyorganiccoffee.org/wp-content/uploads/2015/11/cup-of-java.jpg" alt="cujOfJava"> 
+  <img src="https://buyorganiccoffee.org/wp-content/uploads/2015/11/cup-of-java.jpg" alt="cujOfJava"> 
 </p>
 
 
