@@ -12,7 +12,7 @@
   
   <h3 align="center">Trabalho de LP - TTP</h3>
   <h2 align="center">Java</h2>
-  <img src="https://buyorganiccoffee.org/wp-content/uploads/2015/11/cup-of-java.jpg" alt="cujOfJava"> 
+  <img align="center" src="https://buyorganiccoffee.org/wp-content/uploads/2015/11/cup-of-java.jpg" alt="cujOfJava"> 
 </p>
 
 
