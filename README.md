@@ -41,12 +41,9 @@
         <li><a href="#consideracoesFinais">Considerações finais</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#usage">Informações sobre disciplina</a></li>
+    <li><a href="#roadmap">Mais informações sobre o grupo</a></li>
+    <li><a href="#contact">Contato</a></li>
   </ol>
 </details>
 
@@ -148,9 +145,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/jonnxpr/TrabalhoLP-TTP](https://github.com/jonnxpr/TrabalhoLP-TTP)
 
 
 
