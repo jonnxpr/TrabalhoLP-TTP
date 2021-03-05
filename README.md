@@ -9,6 +9,7 @@
 <!-- PROJECT LOGO -->
 <br />
 
+<head>
 <style>
 img {
   display: block;
@@ -16,6 +17,7 @@ img {
   margin-right: auto;
 }
 </style>
+</head>
 
 <p align="center">
   
