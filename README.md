@@ -51,9 +51,5 @@ img {
         <li><a href="#exEd">[Exercício, ou Estudo de Caso, sobre o(s) tema(s)]</a></li>
         <li><a href="#consideracoesFinais">Considerações finais</a></li>
       </ul>
-    </li>
-    <li><a href="#usage">Informações sobre disciplina</a></li>
-    <li><a href="#roadmap">Mais informações sobre o grupo</a></li>
-    <li><a href="#contact">Contato</a></li>
   </ol>
 </details>
